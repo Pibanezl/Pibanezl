@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pedro Ibanez</h1>
+<h2 align="center">Hi 👋, I'm Pedro Ibanez</h2>
 <h3 align="center">A passionate frontend developer and designer from Chile, Currently living in New Zealand.</h3>
 
 - 🌱 I’m currently improving **my Front End skills**
