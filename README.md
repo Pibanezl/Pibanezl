@@ -1,4 +1,5 @@
 <h2 align="center">Hi 👋, I'm Pedro Ibanez</h2>
+
 # 💫 About Me:
 Hi, I'm Pedro, a front‑end developer and designer who builds polished, accessible web experiences. I create 3D visuals, user interfaces, and web applications with a focus on component‑driven architecture, responsive design, and performance optimisation. I work primarily with JavaScript, TypeScript, React, and Three.js, bringing an artist’s eye for detail to UI/UX and interactive visuals. I enjoy taking projects from visual prototype to production‑ready delivery through close collaboration with designers and clients.<br>
 
